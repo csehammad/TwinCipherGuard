@@ -73,5 +73,5 @@ public class MyClass
 
 
 ### License
-This project is licensed under the MIT License.
+This project is licensed under the General Public License (GPL)
 
